@@ -1,3 +1,0 @@
-/home/michaelchiou/code/oop/test/Assign7/build/CMakeFiles/exec.dir
-/home/michaelchiou/code/oop/test/Assign7/build/CMakeFiles/edit_cache.dir
-/home/michaelchiou/code/oop/test/Assign7/build/CMakeFiles/rebuild_cache.dir
