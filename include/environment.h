@@ -2,7 +2,7 @@
 #define ENVIROMENT_H
 
 constexpr int GAME_WINDOW_WIDTH = 40;
-constexpr int GAME_WINDOW_HEIGHT = 23;
+constexpr int GAME_WINDOW_HEIGHT = 25;
 
 constexpr int GAME_WINDOW_CELL_WIDTH = 2;
 constexpr int WINDOW_PIXEL_WIDTH = GAME_WINDOW_WIDTH * GAME_WINDOW_CELL_WIDTH;
